@@ -5,9 +5,8 @@ URL TO BLOG
 Link einfügen 
 
 
-FILES
-
-Folder "Data":
+# FILES
+# Folder Data:
   - Folder 2016
       - File Daten2016.pkl: Contains all data for the 2016 season
       - File FifaGes16.pkl: Contains all data from Fifa from teams
@@ -48,16 +47,16 @@ Folder "Data":
       -Statistik.ipynb: Notebook to collect all statistic informationa about each season
  
  
- Folder Models:
-   -Folder Test:
-      -Folder LSTM/LSTM4Saisons/Transformer/Transformer4Seasons: Trained Models
-      -Filed LSTMErgebnisse.pkl/LSTM4Ergebnisse.pkl/TransformerErgebnisse-pkl/Transformer4Ergebnisse.pkl: Results from Season 2020 to evaluate 
-      -TestLSTM.ipynb: Notebook to test the LSTM model
-      -TestTransformer.ipynb: Notebook to test the Transformer model
-   -Folder Training:
-      -Folder LSTM/LSTM4Saisons/Transformer/Transformer4Seasons: Trained Models
-      -Daten2014.pkl-Daten2019.pkl/Daten161718.pkl: Data Inforamtion as pkl File from seasons
-      -ConcatMatrices.ipynb: Concat pkl Files to one pkl File
-      -LSTM.ipynb: Build and trained LSTM model
-      -Trasnformer.ipynb: Build and trained Transformer model 
+ # Folder Models:
+   - Folder Test:
+      - Folder LSTM/LSTM4Saisons/Transformer/Transformer4Seasons: Trained Models
+      - Filed LSTMErgebnisse.pkl/LSTM4Ergebnisse.pkl/TransformerErgebnisse-pkl/Transformer4Ergebnisse.pkl: Results from Season 2020 to evaluate 
+      - TestLSTM.ipynb: Notebook to test the LSTM model
+      - TestTransformer.ipynb: Notebook to test the Transformer model
+   - Folder Training:
+      - Folder LSTM/LSTM4Saisons/Transformer/Transformer4Seasons: Trained Models
+      - Daten2014.pkl-Daten2019.pkl/Daten161718.pkl: Data Inforamtion as pkl File from seasons
+      - ConcatMatrices.ipynb: Concat pkl Files to one pkl File
+      - LSTM.ipynb: Build and trained LSTM model
+      - Trasnformer.ipynb: Build and trained Transformer model 
   
