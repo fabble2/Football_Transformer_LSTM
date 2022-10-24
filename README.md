@@ -1,8 +1,8 @@
 # Football Prediction Transformer vs LSTM
 
 
-URL TO BLOG
-Link einfügen 
+## URL TO BLOG
+https://medium.com/@fabian.c/winning-soccer-bets-with-deep-learning-e21a3719f1cf
 
 ## Project Description
    - This Project is about to create a data corpus about german Football
