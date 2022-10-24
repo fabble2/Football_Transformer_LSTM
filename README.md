@@ -1,4 +1,4 @@
-"# Football Prediction Transformer vs LSTM" 
+# Football Prediction Transformer vs LSTM
 
 
 URL TO BLOG
