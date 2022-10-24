@@ -4,9 +4,13 @@
 URL TO BLOG
 Link einfügen 
 
+## Project Description
+   - This Project is about to create a data corpus about german Football
+   - It build two Deep Learning models (Transformer and LSTM)
+   - Predicted Football results and compare these models
 
-# FILES
-# Folder Data:
+## FILES
+## Folder Data:
   - Folder 2016
       - File Daten2016.pkl: Contains all data for the 2016 season
       - File FifaGes16.pkl: Contains all data from Fifa from teams
@@ -47,7 +51,7 @@ Link einfügen
       -Statistik.ipynb: Notebook to collect all statistic informationa about each season
  
  
- # Folder Models:
+ ## Folder Models:
    - Folder Test:
       - Folder LSTM/LSTM4Saisons/Transformer/Transformer4Seasons: Trained Models
       - Filed LSTMErgebnisse.pkl/LSTM4Ergebnisse.pkl/TransformerErgebnisse-pkl/Transformer4Ergebnisse.pkl: Results from Season 2020 to evaluate 
